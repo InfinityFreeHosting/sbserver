@@ -1,2 +1,2 @@
-# safebrowsing-docker
-Packaging Google's Safebrowsing Proxy as Docker Image
+# SBserver
+Packaging Google's Safebrowsing Proxy as Docker Image.
